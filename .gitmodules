@@ -1,0 +1,6 @@
+[submodule "mods/HULA/HULA"]
+	path = mods/HULA/HULA
+	url = git@github.com:thrutheframe/HULA_Voron.git
+[submodule "mods/EnragedRabbitProject/EnragedRabbitProject"]
+	path = mods/EnragedRabbitProject/EnragedRabbitProject
+	url = git@github.com:EtteGit/EnragedRabbitProject.git
