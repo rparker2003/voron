@@ -16,10 +16,10 @@ This repository tracks the assembly, customization, and ongoing upgrades for my 
 
 ## Mods Installed / Planned For Install
 
-| Mod Name                                                | Description                                                              | Links                                                            | Installed? |
-| ------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------- | ---------- |
-| [HULA](mods/hula/README.md)                             | Vibration-damping feet to reduce frame stress and improve print quality. | [Official Repo](https://github.com/thrutheframe/HULA_Voron)      | PENDING    |
-| [Enraged Rabbit Project](mods/enraged_rabbit/README.md) | Adds multi-material printing capability via tool-changing mechanisms.    | [Official Repo](https://github.com/EtteGit/EnragedRabbitProject) | NO         |
+| Mod Name                                                                  | Description                                                              | Installed? |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |
+| [HULA](https://github.com/thrutheframe/HULA_Voron)                        | Vibration-damping feet to reduce frame stress and improve print quality. | PENDING    |
+| [Enraged Rabbit Project](https://github.com/EtteGit/EnragedRabbitProject) | Adds multi-material printing capability via tool-changing mechanisms.    | NO         |
 
 ---
 
@@ -58,6 +58,5 @@ This repository tracks the assembly, customization, and ongoing upgrades for my 
 To clone this repository along with all submodules, use:
 
 ```bash
-git clone --recurse-submodules <repo-url>
-
+git clone --recurse-submodules https://github.com/rparker2003/voron
 ```
